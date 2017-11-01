@@ -14,7 +14,7 @@ h2 {
   margin: 0 auto;
 }
 
-.slider-button {
+.switch-button {
   height: 200px;
   width: 100%;
   border: 20px solid #ccc;
@@ -42,10 +42,10 @@ h2 {
   background-color: #888;
 }
 
-.slider-button:hover {
+.switch-button:hover {
   background-position: calc(-80px - 100%);
 }
 
-.slider-button:hover > .handle-wrapper {
+.switch-button:hover > .handle-wrapper {
   transform: translate(calc(-160px + 100%));
 }
