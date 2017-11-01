@@ -25,6 +25,7 @@ h2 {
   background-position: 80px;
   transition:background-position 2s ease;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .handle-wrapper {
